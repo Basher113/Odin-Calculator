@@ -45,7 +45,7 @@ body {
             }
          }
       }
-      .input {
+      .number-input {
          color: #4a4a4a;
          text-align: right;
          padding: 10px 30px;
@@ -63,7 +63,7 @@ body {
          height: 70px;
          display: flex;
          flex-direction: row;
-         .number {
+         .numbers {
             width: 75%;
             display: flex;
             color: #ffffff;
